@@ -1,75 +1,53 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Gordon Otieno 
 
-> Description the project.
+ ## Hello World 👋
+ 
+  I am **Gordon Otieno** a Kenyan citizen, Computer Science graduate and a software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
+   
+   Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
+   
+I’m currently looking for my next programming job :keyboard:
+<br/>
+<br/>
 
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+<br/>
 
 
 
-## Authors
+## &#x1f4c8; GitHub Stats
+<div align='center'>
+  <a href="https://github.com/GordonOtieno">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GordonOtieno&show_icons=true&include_all_commits=true" />
+  </a> 
 
-👤 **Author1**
+  <a href="https://github.com/GordonOtieno">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GordonOtieno&layout=compact" />
+  </a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+  <div align="center">
+    <a href="https://github.com/GordonOtieno">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=GordonOtieno" />
+    </a>
+  </div>   
+</div>
+<br/>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+[![Linkedin Badge](https://img.shields.io/badge/-Gordon%20Otieno-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gordon-otieno-612b98184/)](https://www.linkedin.com/in/gordon-otieno-612b98184/)
+[![AngelList Badge](https://img.shields.io/badge/-gordon--otieno-white?style=plastic&logo=AngelList&logoColor=black&link=https://angel.co/u/gordon-otieno)](https://angel.co/u/gordon-otieno)
+[![Twitter Badge](https://img.shields.io/badge/-@GordonOtieno-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GordonO34459259)](https://twitter.com/GordonO34459259)
+[![HackerRank Badge](https://img.shields.io/badge/-@otienogordon95?style=plastic&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/otienogordon95)](https://www.hackerrank.com/otienogordon95)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<p align="center"> 
+  You are visitor number: <br>
+  <img src="https://profile-counter.glitch.me/GordonOtieno/count.svg" />
+</p>

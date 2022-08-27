@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Gordon Otieno 
+# Sonick Mumba 
 
  ## Hello World 👋
  
-  I am **Gordon Otieno** a Kenyan citizen, Computer Science graduate and a software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
+  I am **Sonick Mumba** a Zambia citizen, software developer and a Master's degree in Mathematics graduate. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
    
    Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
    
@@ -25,18 +25,18 @@ I’m currently looking for my next programming job :keyboard:
 
 ## &#x1f4c8; GitHub Stats
 <div align='center'>
-  <a href="https://github.com/GordonOtieno">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GordonOtieno&show_icons=true&include_all_commits=true" />
+  <a href="https://github.com/Sonickmumba">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sonickmumba&show_icons=true&include_all_commits=true" />
   </a> 
 
-  <a href="https://github.com/GordonOtieno">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GordonOtieno&layout=compact" />
+  <a href="https://github.com/Sonickmumba">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonickmumba&layout=compact" />
   </a>
 
 
   <div align="center">
-    <a href="https://github.com/GordonOtieno">
-      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=GordonOtieno" />
+    <a href="https://github.com/Sonickmumba">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonickmumba" />
     </a>
   </div>   
 </div>
@@ -49,5 +49,5 @@ I’m currently looking for my next programming job :keyboard:
 
 <p align="center"> 
   You are visitor number: <br>
-  <img src="https://profile-counter.glitch.me/GordonOtieno/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sonickmumba/count.svg" />
 </p>

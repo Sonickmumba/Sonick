@@ -4,11 +4,8 @@
 
  ## Hello World 👋
  
-  I am **Sonick Mumba** a Zambia citizen, software developer and a Master's degree in Mathematics graduate. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
+  I am **Sonick Mumba** a Zambia citizen, software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
    
-   Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
-   
-
 <br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -18,9 +15,10 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 🎷 &nbsp;In my free time, I love to play soccer or watch tech documentaries.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at kingellie.mumba@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can reach me on email at kingellie.mumba@gmail.com! I'll try to respond as soon as I can.\
 I’m currently looking for my next programming job :keyboard:
 📄 &nbsp;I'm open to feedback and suggestions!.\
+Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
 <br/>
 
 ### 🛠 Tech Stack
@@ -29,7 +27,7 @@ I’m currently looking for my next programming job :keyboard:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Dart (Statistics)](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=276DC3)\
+![Dart (Statistics)](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -39,7 +37,7 @@ I’m currently looking for my next programming job :keyboard:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-ide&logoColor=2C2255)\

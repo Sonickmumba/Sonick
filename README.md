@@ -42,7 +42,7 @@ I’m currently looking for my next programming job :keyboard:
 </div>
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gordon%20Otieno-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonick-m-301557a2/)](https://www.linkedin.com/in/sonick-m-301557a2/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mumba%20Sonick-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonick-m-301557a2/)](https://www.linkedin.com/in/sonick-m-301557a2/)
 [![Twitter Badge](https://img.shields.io/badge/-@MumbaSonick-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MumbaSonick)](https://twitter.com/MumbaSonick)
 [![HackerRank Badge](https://img.shields.io/badge/-@kingellie_mumba?style=plastic&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/@kingellie_mumba)](https://www.hackerrank.com/kingellie_mumba)
 

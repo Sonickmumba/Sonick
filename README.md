@@ -8,17 +8,45 @@
    
    Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
    
-I’m currently looking for my next programming job :keyboard:
-<br/>
+
 <br/>
 
-## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;A Masters degree in Mathemaatic at University of Zambia.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎷 &nbsp;In my free time, I love to play soccer or watch tech documentaries.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at kingellie.mumba@gmail.com! I'll try to respond as soon as I can.\
+I’m currently looking for my next programming job :keyboard:
+📄 &nbsp;I'm open to feedback and suggestions!.\
+<br/>
+
+### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Dart (Statistics)](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-ide&logoColor=2C2255)\
+![Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=netbeans-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=1572B6)
+
 <br/>
 
 
@@ -42,8 +70,8 @@ I’m currently looking for my next programming job :keyboard:
 </div>
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mumba%20Sonick-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonick-m-301557a2/)](https://www.linkedin.com/in/sonick-m-301557a2/)
-[![Twitter Badge](https://img.shields.io/badge/-@MumbaSonick-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MumbaSonick)](https://twitter.com/MumbaSonick)
+[![Linkedin Badge](https://img.shields.io/badge/-Mumba%20Sonick-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonick-m-301557a2/)](https://www.linkedin.com/in/sonick-m-301557a2/)\
+[![Twitter Badge](https://img.shields.io/badge/-@MumbaSonick-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MumbaSonick)](https://twitter.com/MumbaSonick)\
 [![HackerRank Badge](https://img.shields.io/badge/-@kingellie_mumba?style=plastic&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/@kingellie_mumba)](https://www.hackerrank.com/kingellie_mumba)
 
 <p align="center"> 
